@@ -1,0 +1,39 @@
+,FLIGHTS,ECONOMY,PREMIUM ECONOMY,BUSINESS CLASS
+0,Manila to Hong Kong,USD 99,-,USD 519
+1,Manila to Macau,USD 99,-,USD 529
+2,Manila to Taipei,USD 119,-,USD 479
+3,Manila to Kuala Lumpur,USD 139,-,USD 699
+4,Manila to Ho Chi Minh,USD 149,-,USD 799
+5,Manila to Singapore,USD 149,USD 439,USD 699
+6,Manila to Bangkok,USD 159,USD 439,USD 699
+7,Manila to Guam,USD 189,-,USD 679
+8,Manila to Jakarta,USD 189,-,USD 899
+9,Manila to Bali (Denpasar),USD 199,-,USD 899
+10,Manila to Fukuoka,USD 289,-,"USD 1,089"
+11,Manila to Nagoya,USD 289,-,"USD 1,089"
+12,Manila to Osaka,USD 289,-,"USD 1,089"
+13,Manila to Tokyo (Haneda),USD 289,USD 689,"USD 1,089"
+14,Manila to Tokyo (Narita),USD 289,USD 689,"USD 1,089"
+15,Manila to Port Moresby,USD 319*,-,"USD 1,599"
+16,NEW! Manila to Perth,USD 329,-,"USD 1,999"
+17,Manila to Dubai,USD 339,-,"USD 1,299"
+18,Manila to Sapporo,USD 479,-,"USD 1,549"
+19,Manila to Melbourne,USD 489,"USD 1,599","USD 2,199"
+20,Manila to Sydney,USD 489,"USD 1,599","USD 1,849"
+21,Manila to Riyadh,USD 509,-,"USD 1,099"
+22,Manila to Brisbane,USD 529,-,"USD 2,199"
+23,Manila to Dammam,USD 549,-,"USD 1,199"
+24,Manila to Honolulu,USD 579,"USD 1,799","USD 2,849"
+25,Manila to Auckland,USD 599,"USD 1,899","USD 2,399"
+26,Manila to Los Angeles,USD 599,-,"USD 2,999"
+27,Manila to San Francisco,USD 599,-,"USD 2,999"
+28,Manila to Vancouver,USD 599,-,"USD 2,999"
+29,Manila to New York,USD 679,"USD 1,899","USD 3,499"
+30,Manila to Toronto,USD 679,"USD 1,899","USD 3,499"
+31,Manila to Doha,USD 719,-,"USD 2,399"
+32,Manila to London,USD 779,"USD 1,679","USD 2,779"
+33,Cebu to Bangkok,USD 209,-,USD 699
+34,Cebu to Nagoya,USD 289,-,"USD 1,399"
+35,Cebu to Osaka,USD 289,-,"USD 1,399"
+36,Cebu to Tokyo (Narita),USD 289,-,"USD 1,399"
+37,NEW! Cebu to Los Angeles,USD 599,-,"USD 2,849"
